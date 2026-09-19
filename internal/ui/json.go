@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"io"
 
-	"github.com/buyruk-project/buyruk-cli/internal/models"
+	"github.com/halilcagriakkuzu/buyruk-cli/internal/models"
 )
 
 // JSONRenderer renders output in JSON format

@@ -5,7 +5,7 @@ import (
 	"io"
 	"strings"
 
-	"github.com/buyruk-project/buyruk-cli/internal/models"
+	"github.com/halilcagriakkuzu/buyruk-cli/internal/models"
 	"github.com/olekukonko/tablewriter"
 )
 

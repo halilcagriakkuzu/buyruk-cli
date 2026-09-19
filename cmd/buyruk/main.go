@@ -3,7 +3,7 @@ package main
 import (
 	"os"
 
-	"github.com/buyruk-project/buyruk-cli/internal/cli"
+	"github.com/halilcagriakkuzu/buyruk-cli/internal/cli"
 )
 
 func main() {

@@ -1,4 +1,4 @@
-module github.com/buyruk-project/buyruk-cli
+module github.com/halilcagriakkuzu/buyruk-cli
 
 go 1.25.6
 

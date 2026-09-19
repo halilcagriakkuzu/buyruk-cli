@@ -5,7 +5,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/buyruk-project/buyruk-cli/internal/build"
+	"github.com/halilcagriakkuzu/buyruk-cli/internal/build"
 )
 
 func TestNewVersionCmd(t *testing.T) {

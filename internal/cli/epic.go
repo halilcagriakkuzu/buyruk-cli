@@ -9,10 +9,10 @@ import (
 	"strings"
 	"time"
 
-	"github.com/buyruk-project/buyruk-cli/internal/config"
-	"github.com/buyruk-project/buyruk-cli/internal/models"
-	"github.com/buyruk-project/buyruk-cli/internal/storage"
-	"github.com/buyruk-project/buyruk-cli/internal/ui"
+	"github.com/halilcagriakkuzu/buyruk-cli/internal/config"
+	"github.com/halilcagriakkuzu/buyruk-cli/internal/models"
+	"github.com/halilcagriakkuzu/buyruk-cli/internal/storage"
+	"github.com/halilcagriakkuzu/buyruk-cli/internal/ui"
 	"github.com/spf13/cobra"
 )
 

@@ -6,7 +6,7 @@ import (
 	"os"
 	"regexp"
 
-	"github.com/buyruk-project/buyruk-cli/internal/storage"
+	"github.com/halilcagriakkuzu/buyruk-cli/internal/storage"
 )
 
 // Config represents the global configuration structure.

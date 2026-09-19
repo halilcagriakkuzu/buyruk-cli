@@ -16,7 +16,7 @@
 * **Target OS:** Windows, macOS, Linux.
 * **CLI Framework:** `Cobra`.
 * **UI/Rendering:** `Lipgloss` (Colors/Styles), `Tablewriter` (Tables), `Glamour` (Markdown).
-* **Repository:** `github.com/buyruk-project/buyruk-cli`
+* **Repository:** `github.com/halilcagriakkuzu/buyruk-cli`
 
 ## 3. Storage & Configuration Architecture
 

@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/buyruk-project/buyruk-cli/internal/models"
+	"github.com/halilcagriakkuzu/buyruk-cli/internal/models"
 )
 
 // LSONRenderer renders output in L-SON format (token-optimized for LLMs)

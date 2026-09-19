@@ -13,7 +13,7 @@ When working with PRs, reviews, and comments, use the GitHub CLI (`gh`) tool for
 To fetch all top-level PR comments (not replies) for a specific PR:
 
 ```bash
-gh api repos/buyruk-project/buyruk-cli/pulls/<PR_NUMBER>/comments --jq '.[] | select(.in_reply_to_id == null) | {path: .path, line: .line, body: .body, user: .user.login}'
+gh api repos/halilcagriakkuzu/buyruk-cli/pulls/<PR_NUMBER>/comments --jq '.[] | select(.in_reply_to_id == null) | {path: .path, line: .line, body: .body, user: .user.login}'
 ```
 
 **Usage:**
@@ -23,7 +23,7 @@ gh api repos/buyruk-project/buyruk-cli/pulls/<PR_NUMBER>/comments --jq '.[] | se
 
 **Example:**
 ```bash
-gh api repos/buyruk-project/buyruk-cli/pulls/5/comments --jq '.[] | select(.in_reply_to_id == null) | {path: .path, line: .line, body: .body, user: .user.login}'
+gh api repos/halilcagriakkuzu/buyruk-cli/pulls/5/comments --jq '.[] | select(.in_reply_to_id == null) | {path: .path, line: .line, body: .body, user: .user.login}'
 ```
 
 ### Getting PR Reviews

@@ -3,8 +3,8 @@ package ui
 import (
 	"os"
 
-	"github.com/buyruk-project/buyruk-cli/internal/models"
 	"github.com/charmbracelet/lipgloss"
+	"github.com/halilcagriakkuzu/buyruk-cli/internal/models"
 )
 
 // Styles provides styling utilities for rendering

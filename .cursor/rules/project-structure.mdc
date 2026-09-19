@@ -47,7 +47,7 @@ package cli
 
 import (
     "fmt"
-    "github.com/buyruk-project/buyruk-cli/internal/build"
+    "github.com/halilcagriakkuzu/buyruk-cli/internal/build"
     "github.com/spf13/cobra"
 )
 
@@ -96,4 +96,4 @@ func NewVersionCmd() *cobra.Command {
 
 - Keep imports local to `internal/` packages
 - External dependencies only in `cmd/` and `internal/` (never in root)
-- Use full module path: `github.com/buyruk-project/buyruk-cli/internal/...`
+- Use full module path: `github.com/halilcagriakkuzu/buyruk-cli/internal/...`

@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/buyruk-project/buyruk-cli/internal/models"
-	"github.com/buyruk-project/buyruk-cli/internal/storage"
+	"github.com/halilcagriakkuzu/buyruk-cli/internal/models"
+	"github.com/halilcagriakkuzu/buyruk-cli/internal/storage"
 	"github.com/spf13/cobra"
 )
 

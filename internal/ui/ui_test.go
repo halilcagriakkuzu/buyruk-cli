@@ -6,7 +6,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/buyruk-project/buyruk-cli/internal/models"
+	"github.com/halilcagriakkuzu/buyruk-cli/internal/models"
 	"github.com/spf13/cobra"
 )
 

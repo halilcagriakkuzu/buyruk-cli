@@ -3,7 +3,7 @@ package cli
 import (
 	"fmt"
 
-	"github.com/buyruk-project/buyruk-cli/internal/build"
+	"github.com/halilcagriakkuzu/buyruk-cli/internal/build"
 	"github.com/spf13/cobra"
 )
 

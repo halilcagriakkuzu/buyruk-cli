@@ -7,8 +7,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/buyruk-project/buyruk-cli/internal/config"
-	"github.com/buyruk-project/buyruk-cli/internal/storage"
+	"github.com/halilcagriakkuzu/buyruk-cli/internal/config"
+	"github.com/halilcagriakkuzu/buyruk-cli/internal/storage"
 )
 
 func TestNewConfigCmd(t *testing.T) {
